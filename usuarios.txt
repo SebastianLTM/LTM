@@ -1,0 +1,5 @@
+admin,$2y$10$abc123hashreal...
+Sebacho,$2y$10$7Fb6dBqdEv9UnLXYLc9YEuP28ixHtjNRxznQtuwlYksMrPXqffka2
+Jaider,$2y$10$1pGLYHn4tjmifqzkiljITuYa.D9uLvNc9KVEpiR9/4JjzFoTgxA9C
+SEBASTIAN,$2y$10$4ZbT.HrWDrC0INeZ7dRPruoMOW.I6/KMwoPf7lzgp/XuKPbAcX7xC
+LATURBE,$2y$10$Yu5bqh0nSQrgWXesjZiMk.XfQu5m5i5zL2eS7/UIGHwq12SyBmetm
